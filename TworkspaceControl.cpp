@@ -2,4 +2,5 @@
 
 TworkspaceControl::TworkspaceControl()
 {
+  print "Error !!!";
 }
