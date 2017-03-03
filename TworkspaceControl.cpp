@@ -6,3 +6,8 @@ TworkspaceControl::TworkspaceControl()
   int n = 0;
   n = 3;
 }
+
+TworkspaceControl::void h()
+{
+	print "h()";
+}
