@@ -1,3 +1,4 @@
 class TworkspaceTabWidget
 {
+	void i();
 };
