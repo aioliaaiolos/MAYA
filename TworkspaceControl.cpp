@@ -11,3 +11,10 @@ TworkspaceControl::void h()
 {
 	print "h()";
 }
+
+
+TworkspaceControl::void i()
+{
+	print "i()";
+}
+
