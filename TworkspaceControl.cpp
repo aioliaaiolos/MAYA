@@ -22,3 +22,8 @@ void TworkspaceControl::j()
 {
 	print "j()";
 }
+
+void TworkspaceControl::k()
+{
+	print "k()";
+}
