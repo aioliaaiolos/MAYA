@@ -18,3 +18,7 @@ TworkspaceControl::void i()
 	print "i()";
 }
 
+void TworkspaceControl::j()
+{
+	print "j()";
+}
